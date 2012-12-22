@@ -6,3 +6,5 @@ Someone was named "Merry". That's weird. Was that previously more popular?
 4. `merry.csv` is the csv
 5. `merry.r` converts that to some plots.
 6. `merry.pdf` is the plots.
+
+The plots show that merry was particularly popular in the 1940s and 1950s.
